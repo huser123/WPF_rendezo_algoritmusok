@@ -1,0 +1,14 @@
+C:\Users\User\Documents\C#\Buborekrendezes\bin\Debug\Buborekrendezes.exe.config
+C:\Users\User\Documents\C#\Buborekrendezes\bin\Debug\Buborekrendezes.exe
+C:\Users\User\Documents\C#\Buborekrendezes\bin\Debug\Buborekrendezes.pdb
+C:\Users\User\Documents\C#\Buborekrendezes\obj\Debug\Buborekrendezes.csproj.AssemblyReference.cache
+C:\Users\User\Documents\C#\Buborekrendezes\obj\Debug\MainWindow.baml
+C:\Users\User\Documents\C#\Buborekrendezes\obj\Debug\MainWindow.g.cs
+C:\Users\User\Documents\C#\Buborekrendezes\obj\Debug\App.g.cs
+C:\Users\User\Documents\C#\Buborekrendezes\obj\Debug\Buborekrendezes_MarkupCompile.cache
+C:\Users\User\Documents\C#\Buborekrendezes\obj\Debug\Buborekrendezes.g.resources
+C:\Users\User\Documents\C#\Buborekrendezes\obj\Debug\Buborekrendezes.Properties.Resources.resources
+C:\Users\User\Documents\C#\Buborekrendezes\obj\Debug\Buborekrendezes.csproj.GenerateResource.cache
+C:\Users\User\Documents\C#\Buborekrendezes\obj\Debug\Buborekrendezes.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\C#\Buborekrendezes\obj\Debug\Buborekrendezes.exe
+C:\Users\User\Documents\C#\Buborekrendezes\obj\Debug\Buborekrendezes.pdb

@@ -1,0 +1,23 @@
+﻿<Window x:Class="Buborekrendezes.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Buborékrendezés Vizualizáció"
+        Height="600" Width="800">
+    <Grid>
+
+        <!-- Fő rész: oszlopok megjelenítése -->
+        <Canvas Name="OszlopCanvas" Background="LightGray" Margin="10" VerticalAlignment="Stretch" HorizontalAlignment="Stretch"/>
+
+        <!-- Felső rész: vezérlők -->
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="10">
+            <Button Name="GombGeneralas" Content="Generálás" Width="100" Margin="5" Click="GombGeneralas_Click"/>
+            <Button Name="GombInditas" Content="Indítás" Width="100" Margin="5" Click="GombInditas_Click"/>
+            <Button Name="GombLepesenkent" Content="Lépésenként" Width="100" Margin="5" Click="GombLepesenkent_Click"/>
+            <TextBlock Text="Sebesség:" VerticalAlignment="Center" Margin="5"/>
+            <Slider Name="SebessegCsuszka" Minimum="10" Maximum="1000" Width="150" Margin="5" Value="500" 
+            ValueChanged="SebessegCsuszka_ValueChanged"/>
+        </StackPanel>
+
+        
+    </Grid>
+</Window>

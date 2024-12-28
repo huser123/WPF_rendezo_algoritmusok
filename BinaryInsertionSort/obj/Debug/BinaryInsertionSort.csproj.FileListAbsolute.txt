@@ -1,0 +1,14 @@
+C:\Users\User\Documents\C#\BinaryInsertionSort\bin\Debug\BinaryInsertionSort.exe.config
+C:\Users\User\Documents\C#\BinaryInsertionSort\bin\Debug\BinaryInsertionSort.exe
+C:\Users\User\Documents\C#\BinaryInsertionSort\bin\Debug\BinaryInsertionSort.pdb
+C:\Users\User\Documents\C#\BinaryInsertionSort\obj\Debug\BinaryInsertionSort.csproj.AssemblyReference.cache
+C:\Users\User\Documents\C#\BinaryInsertionSort\obj\Debug\MainWindow.baml
+C:\Users\User\Documents\C#\BinaryInsertionSort\obj\Debug\MainWindow.g.cs
+C:\Users\User\Documents\C#\BinaryInsertionSort\obj\Debug\App.g.cs
+C:\Users\User\Documents\C#\BinaryInsertionSort\obj\Debug\BinaryInsertionSort_MarkupCompile.cache
+C:\Users\User\Documents\C#\BinaryInsertionSort\obj\Debug\BinaryInsertionSort.g.resources
+C:\Users\User\Documents\C#\BinaryInsertionSort\obj\Debug\BinaryInsertionSort.Properties.Resources.resources
+C:\Users\User\Documents\C#\BinaryInsertionSort\obj\Debug\BinaryInsertionSort.csproj.GenerateResource.cache
+C:\Users\User\Documents\C#\BinaryInsertionSort\obj\Debug\BinaryInsertionSort.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\C#\BinaryInsertionSort\obj\Debug\BinaryInsertionSort.exe
+C:\Users\User\Documents\C#\BinaryInsertionSort\obj\Debug\BinaryInsertionSort.pdb

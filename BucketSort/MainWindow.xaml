@@ -1,0 +1,22 @@
+﻿<Window x:Class="BucketSort.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Bucket Sort Vizualizáció" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <!-- Gombok a vezérléshez -->
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="10" Grid.Row="0">
+            <Button x:Name="GombGeneralas" Content="Generálás" Margin="5" Click="GombGeneralas_Click" />
+            <Button x:Name="GombInditas" Content="Indítás" Margin="5" Click="GombInditas_Click" />
+            <Button x:Name="GombLepesenkent" Content="Lépésenként" Margin="5" Click="GombLepesenkent_Click" />
+            <Slider x:Name="SebessegCsuszka" Minimum="50" Maximum="2000" Value="1000" Width="150" Margin="5" ValueChanged="SebessegCsuszka_ValueChanged" />
+        </StackPanel>
+
+        <!-- Canvas az oszlopok rajzolásához -->
+        <Canvas x:Name="OszlopCanvas" Grid.Row="1" Background="White" />
+    </Grid>
+</Window>
